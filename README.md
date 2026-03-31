@@ -38,3 +38,5 @@ This project is divided in 4 labs.
 Each notebook can be run cell by cell. The first 3 of them will update the files in the data folder.
 To test the RAG, the notebook must be run also and the question must be asked in the top bar.
 There is no particular hardware requirement 
+
+<img src="data/screenshots/RAG_image.png" alt="RAG Demo Screenshot" width="600">
