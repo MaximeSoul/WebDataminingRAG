@@ -1,0 +1,433 @@
+@prefix my: <http://myproject.org/ontology/> .
+
+my:2001 a my:DATE .
+
+my:2008 a my:DATE .
+
+my:2009 a my:DATE .
+
+my:2013 a my:DATE .
+
+my:2014 a my:DATE .
+
+my:2015 a my:DATE .
+
+my:2016 a my:DATE .
+
+my:2017 a my:DATE .
+
+my:2019 a my:DATE .
+
+my:2020 a my:DATE .
+
+my:2021 a my:DATE .
+
+my:30_year_old a my:DATE .
+
+my:AMC a my:ORG .
+
+my:Alibaba a my:ORG .
+
+my:Amazon a my:ORG .
+
+my:America a my:GPE .
+
+my:Andrew_Ross_Sorkin a my:PERSON .
+
+my:Apr._2022 a my:DATE .
+
+my:April_18%2C_2013 a my:DATE .
+
+my:April_2013 a my:DATE .
+
+my:April_2014 a my:DATE .
+
+my:April_2019 a my:DATE .
+
+my:April_2020 a my:DATE .
+
+my:April_2022 a my:DATE .
+
+my:August_2020 a my:DATE .
+
+my:August_2021 a my:DATE .
+
+my:August_that_year a my:DATE .
+
+my:BBC a my:ORG .
+
+my:Baiju_Bhatt a my:PERSON .
+
+my:Between_2010_and_2014 a my:DATE .
+
+my:Between_2021%E2%80%932024%2C a my:DATE .
+
+my:Bhatt a my:PERSON .
+
+my:Binc a my:ORG .
+
+my:BlackBerry a my:ORG .
+
+my:Bloomberg a my:ORG .
+
+my:Bloomberg_News a my:ORG .
+
+my:Brockton a my:GPE .
+
+my:CD_Projekt a my:ORG .
+
+my:CFAI a my:ORG .
+
+my:CNBC a my:ORG .
+
+my:California a my:GPE .
+
+my:Caroline a my:PERSON .
+
+my:Chartr a my:ORG .
+
+my:Chewy a my:ORG .
+
+my:Chewy%2C_Inc.%5B7 a my:ORG .
+
+my:Citadel a my:ORG .
+
+my:Citron_Research a my:ORG .
+
+my:Congress a my:ORG .
+
+my:Connecticut a my:GPE .
+
+my:Cove_Markets a my:ORG .
+
+my:December a my:DATE .
+
+my:December_2019.%5B23%5D%5B24 a my:DATE .
+
+my:December_2021 a my:DATE .
+
+my:December_2023 a my:DATE .
+
+my:Dell a my:ORG .
+
+my:Elaine_Gill%2C%5B13 a my:PERSON .
+
+my:Elon_Musk a my:PERSON .
+
+my:FDIC a my:ORG .
+
+my:FINRA a my:ORG .
+
+my:February_18%2C_2021 a my:DATE .
+
+my:February_2018 a my:DATE .
+
+my:February_2023 a my:DATE .
+
+my:February_24 a my:DATE .
+
+my:February_26%2C_2021 a my:DATE .
+
+my:Gabriel_Plotkin a my:PERSON .
+
+my:GameStop a my:ORG .
+
+my:Gill a my:PERSON .
+
+my:Goldman_Sachs a my:ORG .
+
+my:History a my:ORG .
+
+my:JCPenney a my:ORG .
+
+my:Jaime_Rogozinski a my:PERSON .
+
+my:January a my:DATE .
+
+my:January_2021 a my:DATE .
+
+my:January_2021.%5B5 a my:DATE .
+
+my:January_2022 a my:DATE .
+
+my:January_22%2C_2021 a my:DATE .
+
+my:January_24 a my:DATE .
+
+my:January_24%2C_2021 a my:DATE .
+
+my:January_26 a my:DATE .
+
+my:January_27 a my:DATE .
+
+my:January_28 a my:DATE .
+
+my:January_28%2C_2021 a my:DATE .
+
+my:January_28%2C_2021.%5B31%5D_Position_in_GameStop_and a my:DATE .
+
+my:January_29%2C_2021.%5B30 a my:DATE .
+
+my:January_31%2C_2012 a my:DATE .
+
+my:July_2012 a my:DATE .
+
+my:July_2021 a my:DATE .
+
+my:July_2023.%5B18 a my:DATE .
+
+my:June_2019 a my:DATE .
+
+my:June_2022 a my:DATE .
+
+my:June_2023 a my:DATE .
+
+my:June_2024 a my:DATE .
+
+my:June_30%2C_2022 a my:DATE .
+
+my:June_8%2C_1986 a my:DATE .
+
+my:Keith_Gill a my:PERSON .
+
+my:Keith_Patrick_Gill a my:PERSON .
+
+my:Keith_Patrick_Gill%5B1 a my:PERSON .
+
+my:Ken_Griffin%27s a my:PERSON .
+
+my:LA_Hacks a my:ORG .
+
+my:Las_Vegas_Sands a my:ORG .
+
+my:LexShares a my:ORG .
+
+my:March_2015.%5B10%5D%5B15%5D%5B16 a my:DATE .
+
+my:March_2017.%5B23 a my:DATE .
+
+my:March_2019 a my:DATE .
+
+my:March_2021 a my:DATE .
+
+my:March_2024 a my:DATE .
+
+my:March_2025 a my:DATE .
+
+my:March_24 a my:DATE .
+
+my:March_25 a my:DATE .
+
+my:Marex_FCM a my:ORG .
+
+my:Mark_Cuban%2C%5B20 a my:PERSON .
+
+my:MarketSnacks a my:ORG .
+
+my:Martin_Shkreli a my:PERSON .
+
+my:MassMutual a my:ORG .
+
+my:MassMutual_Individual_stock a my:ORG .
+
+my:May_18%2C_2022 a my:DATE .
+
+my:Melvin a my:ORG,
+        my:PERSON .
+
+my:Melvin_Capital a my:ORG .
+
+my:Melvin_Capital.%5B20 a my:ORG .
+
+my:Melvin_Capital_II_Offshore_Ltd a my:ORG .
+
+my:Melvin_Capital_Management a my:ORG .
+
+my:Menlo_Park a my:GPE .
+
+my:Menlo_Park.%5B17 a my:GPE .
+
+my:Michael_Steinberg a my:PERSON .
+
+my:New_Hampshire a my:GPE .
+
+my:New_York_City a my:GPE .
+
+my:New_York_City.%5B1 a my:GPE .
+
+my:New_York_City.%5B9 a my:GPE .
+
+my:Nokia a my:ORG .
+
+my:North_Sound_Capital.%5B9 a my:ORG .
+
+my:Northwestern_University a my:ORG .
+
+my:Palo_Alto a my:GPE .
+
+my:Plotkin a my:PERSON .
+
+my:Point72 a my:ORG .
+
+my:Q1_2021 a my:DATE .
+
+my:Q4_2025 a my:DATE .
+
+my:Reddit a my:ORG .
+
+my:Reuters a my:ORG .
+
+my:Robin_Hood a my:PERSON .
+
+my:Robinhood a my:ORG .
+
+<http://myproject.org/ontology/Robinhood_Markets%2C_Inc.> a my:ORG .
+
+my:Rogozinski a my:PERSON .
+
+my:Ryan_Cohen a my:PERSON .
+
+my:SAC a my:ORG .
+
+my:SAC_Capital a my:ORG .
+
+my:Say_Technologies a my:ORG .
+
+my:September_2019 a my:DATE .
+
+my:September_2020 a my:DATE .
+
+my:Sherwood a my:ORG .
+
+<http://myproject.org/ontology/Sherwood.> a my:ORG .
+
+my:Steve_Cohen%27s a my:PERSON .
+
+my:Steven a my:PERSON .
+
+my:Stonehill_College a my:ORG .
+
+my:SunEdison a my:ORG .
+
+my:Sunset a my:ORG .
+
+my:TMZ_Live.%5B14 a my:ORG .
+
+my:Tenev a my:PERSON .
+
+my:Tesla a my:ORG .
+
+my:That_same_month a my:DATE .
+
+my:The_Wall_Street_Journal a my:ORG .
+
+my:The_following_June a my:DATE .
+
+my:The_following_month a my:DATE .
+
+my:Track_%26_Field_and_Cross_Country_Coaches_Association a my:ORG .
+
+my:Tuesday%2C_January_26 a my:DATE .
+
+my:Turing_Pharma a my:ORG .
+
+my:Twitch a my:ORG .
+
+<http://myproject.org/ontology/U.S.> a my:GPE .
+
+my:UK a my:GPE .
+
+my:US a my:GPE .
+
+my:Vladimir_Tenev a my:PERSON .
+
+my:WSB a my:ORG .
+
+my:WallStreetBets a my:ORG .
+
+my:X1 a my:ORG .
+
+my:YouTube a my:ORG .
+
+my:a_month a my:DATE .
+
+my:annual a my:DATE .
+
+my:another_month a my:DATE .
+
+my:between_2014_and_2020 a my:DATE .
+
+my:daily a my:DATE .
+
+my:day a my:DATE .
+
+my:early_2021 a my:DATE .
+
+my:early_2021.%5B2 a my:DATE .
+
+my:four-year a my:DATE .
+
+my:four_years a my:DATE .
+
+my:its_first_full_year a my:DATE .
+
+my:late_2014 a my:DATE .
+
+my:late_January a my:DATE .
+
+my:late_January_2021 a my:DATE .
+
+my:mid-2019%2C_investor_Michael_Burry%27s_Scion_Asset_Management a my:DATE .
+
+my:monthly a my:DATE .
+
+my:that_year.%5B20%5D%5B21 a my:DATE .
+
+my:the_Apple_App_Store.%5B14 a my:ORG .
+
+my:the_European_Union.%5B1 a my:GPE .
+
+my:the_Federal_Deposit_Insurance_Corporation a my:ORG .
+
+my:the_Financial_Industry_Regulatory_Authority a my:ORG .
+
+my:the_Meme_Man a my:PERSON .
+
+my:the_Securities_and_Exchange_Commission%27s a my:ORG .
+
+my:the_U.S._House_Committee_on_Financial_Services a my:ORG .
+
+my:the_US_House_Financial_Services_Committee a my:ORG .
+
+my:the_United_Kingdom.%5B39%5D%5B40%5D%5B41 a my:GPE .
+
+my:the_Warsaw_Stock_Exchange a my:ORG .
+
+my:the_beginning_of_the_month a my:DATE .
+
+my:the_end_of_2016.%5B15 a my:DATE .
+
+my:the_end_of_2020 a my:DATE .
+
+my:the_end_of_2022 a my:DATE .
+
+my:the_first_days a my:DATE .
+
+my:the_first_quarter_of_2020 a my:DATE .
+
+my:the_next_day a my:DATE .
+
+my:the_prior_10_years.%5B7 a my:DATE .
+
+my:the_same_year.%5B17 a my:DATE .
+
+my:the_second_quarter_of_2020 a my:DATE .
+
+my:the_year a my:DATE .
+
+my:the_years a my:DATE .
+
+<http://myproject.org/ontology/u/DeepFuckingValue_on> a my:PERSON .
+
+my:wallstreetbets a my:ORG .
+

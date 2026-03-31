@@ -1,0 +1,594 @@
+@prefix my: <http://myproject.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+my:2001 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1988> .
+
+my:2008 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2004> .
+
+my:2009 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1996> .
+
+my:2013 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1998> .
+
+my:2014 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1999> .
+
+my:2015 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2002> .
+
+my:2016 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25245> .
+
+my:2017 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25290> .
+
+my:2019 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25274> .
+
+my:2020 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q25337> .
+
+my:2021 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q49628> .
+
+my:30_year_old a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q133934126> .
+
+my:AMC a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q294660> .
+
+my:Alibaba a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1359568> .
+
+my:Amazon a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3884> .
+
+my:America a my:GPE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q30> .
+
+my:Andrew_Ross_Sorkin a my:PERSON ;
+    owl:sameAs <http://www.wikidata.org/entity/Q506972> .
+
+my:Apr._2022 a my:DATE .
+
+my:April_18%2C_2013 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17981834> .
+
+my:April_2013 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2037488> .
+
+my:April_2014 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7131201> .
+
+my:April_2019 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q47087596> .
+
+my:April_2020 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q55020106> .
+
+my:April_2022 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q115868162> .
+
+my:August_2020 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q55281141> .
+
+my:August_2021 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q61313033> .
+
+my:August_that_year a my:DATE .
+
+my:BBC a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q9531> .
+
+my:Baiju_Bhatt a my:PERSON ;
+    owl:sameAs <http://www.wikidata.org/entity/Q120685383> .
+
+my:Between_2010_and_2014 a my:DATE .
+
+my:Between_2021%E2%80%932024%2C a my:DATE .
+
+my:Bhatt a my:PERSON ;
+    owl:sameAs <http://www.wikidata.org/entity/Q37560218> .
+
+my:Binc a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q95121> .
+
+my:BlackBerry a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q502121> .
+
+my:Bloomberg a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13977> .
+
+my:Bloomberg_News a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q14270642> .
+
+my:Brockton a my:GPE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q49193> .
+
+my:CD_Projekt a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q7098994> .
+
+my:CFAI a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2931294> .
+
+my:CNBC a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1023912> .
+
+my:California a my:GPE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q99> .
+
+my:Caroline a my:PERSON ;
+    owl:sameAs <http://www.wikidata.org/entity/Q16275172> .
+
+my:Chartr a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q130272> .
+
+my:Chewy a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q28130158> .
+
+my:Chewy%2C_Inc.%5B7 a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q28130158> .
+
+my:Citadel a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5122370> .
+
+my:Citron_Research a my:ORG .
+
+my:Congress a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q10225> .
+
+my:Connecticut a my:GPE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q779> .
+
+my:Cove_Markets a my:ORG .
+
+my:December a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q126> .
+
+my:December_2019.%5B23%5D%5B24 a my:DATE .
+
+my:December_2021 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q61312898> .
+
+my:December_2023 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q61312901> .
+
+my:Dell a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q30873> .
+
+my:Elaine_Gill%2C%5B13 a my:PERSON .
+
+my:Elon_Musk a my:PERSON ;
+    owl:sameAs <http://www.wikidata.org/entity/Q317521> .
+
+my:FDIC a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1345065> .
+
+my:FINRA a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q387071> .
+
+my:February_18%2C_2021 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q69305959> .
+
+my:February_2018 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q23994857> .
+
+my:February_2023 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q61312937> .
+
+my:February_24 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2355> .
+
+my:February_26%2C_2021 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q69305969> .
+
+my:Gabriel_Plotkin a my:PERSON .
+
+my:GameStop a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q202210> .
+
+my:Gill a my:PERSON ;
+    owl:sameAs <http://www.wikidata.org/entity/Q21431135> .
+
+my:Goldman_Sachs a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q193326> .
+
+my:History a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q309> .
+
+my:JCPenney a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q920037> .
+
+my:Jaime_Rogozinski a my:PERSON ;
+    owl:sameAs <http://www.wikidata.org/entity/Q87785567> .
+
+my:January a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q108> .
+
+my:January_2021 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q61312878> .
+
+my:January_2021.%5B5 a my:DATE .
+
+my:January_2022 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q61312879> .
+
+my:January_22%2C_2021 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q69305926> .
+
+my:January_24 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2278> .
+
+my:January_24%2C_2021 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q69305929> .
+
+my:January_26 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2282> .
+
+my:January_27 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2284> .
+
+my:January_28 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2285> .
+
+my:January_28%2C_2021 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q69305934> .
+
+my:January_28%2C_2021.%5B31%5D_Position_in_GameStop_and a my:DATE .
+
+my:January_29%2C_2021.%5B30 a my:DATE .
+
+my:January_31%2C_2012 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17982837> .
+
+my:July_2012 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q628497> .
+
+my:July_2021 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q61312805> .
+
+my:July_2023.%5B18 a my:DATE .
+
+my:June_2019 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q47087599> .
+
+my:June_2022 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q61312787> .
+
+my:June_2023 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q61312788> .
+
+my:June_2024 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q61312789> .
+
+my:June_30%2C_2022 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q69306476> .
+
+my:June_8%2C_1986 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q69296880> .
+
+my:Keith_Gill a my:PERSON ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1366485> .
+
+my:Keith_Patrick_Gill a my:PERSON ;
+    owl:sameAs <http://www.wikidata.org/entity/Q105104258> .
+
+my:Keith_Patrick_Gill%5B1 a my:PERSON ;
+    owl:sameAs <http://www.wikidata.org/entity/Q105104258> .
+
+my:Ken_Griffin%27s a my:PERSON ;
+    owl:sameAs <http://www.wikidata.org/entity/Q121337037> .
+
+my:LA_Hacks a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17063840> .
+
+my:Las_Vegas_Sands a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1506045> .
+
+my:LexShares a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q30589705> .
+
+my:March_2015.%5B10%5D%5B15%5D%5B16 a my:DATE .
+
+my:March_2017.%5B23 a my:DATE .
+
+my:March_2019 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q31275158> .
+
+my:March_2021 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q61312973> .
+
+my:March_2024 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q61312976> .
+
+my:March_2025 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q61312977> .
+
+my:March_24 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2453> .
+
+my:March_25 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2454> .
+
+my:Marex_FCM a my:ORG .
+
+my:Mark_Cuban%2C%5B20 a my:PERSON .
+
+my:MarketSnacks a my:ORG .
+
+my:Martin_Shkreli a my:PERSON ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6776585> .
+
+my:MassMutual a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4385833> .
+
+my:MassMutual_Individual_stock a my:ORG .
+
+my:May_18%2C_2022 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q69306433> .
+
+my:Melvin a my:ORG,
+        my:PERSON ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3854316> .
+
+my:Melvin_Capital a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q85784879> .
+
+my:Melvin_Capital.%5B20 a my:ORG .
+
+my:Melvin_Capital_II_Offshore_Ltd a my:ORG .
+
+my:Melvin_Capital_Management a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q114844445> .
+
+my:Menlo_Park a my:GPE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q74195> .
+
+my:Menlo_Park.%5B17 a my:GPE .
+
+my:Michael_Steinberg a my:PERSON ;
+    owl:sameAs <http://www.wikidata.org/entity/Q6834595> .
+
+my:New_Hampshire a my:GPE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q759> .
+
+my:New_York_City a my:GPE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q60> .
+
+my:New_York_City.%5B1 a my:GPE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q77174913> .
+
+my:New_York_City.%5B9 a my:GPE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q77174913> .
+
+my:Nokia a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q192870> .
+
+my:North_Sound_Capital.%5B9 a my:ORG .
+
+my:Northwestern_University a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q309350> .
+
+my:Palo_Alto a my:GPE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q47265> .
+
+my:Plotkin a my:PERSON ;
+    owl:sameAs <http://www.wikidata.org/entity/Q21496946> .
+
+my:Point72 a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2204741> .
+
+my:Q1_2021 a my:DATE .
+
+my:Q4_2025 a my:DATE .
+
+my:Reddit a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1136> .
+
+my:Reuters a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q130879> .
+
+my:Robin_Hood a my:PERSON ;
+    owl:sameAs <http://www.wikidata.org/entity/Q50100143> .
+
+my:Robinhood a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q18155123> .
+
+<http://myproject.org/ontology/Robinhood_Markets%2C_Inc.> a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q18155123> .
+
+my:Rogozinski a my:PERSON ;
+    owl:sameAs <http://www.wikidata.org/entity/Q48688306> .
+
+my:Ryan_Cohen a my:PERSON ;
+    owl:sameAs <http://www.wikidata.org/entity/Q55114633> .
+
+my:SAC a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q18013> .
+
+my:SAC_Capital a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2204741> .
+
+my:Say_Technologies a my:ORG .
+
+my:September_2019 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q47087604> .
+
+my:September_2020 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q55281173> .
+
+my:Sherwood a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q21021622> .
+
+<http://myproject.org/ontology/Sherwood.> a my:ORG .
+
+my:Steve_Cohen%27s a my:PERSON ;
+    owl:sameAs <http://www.wikidata.org/entity/Q512330> .
+
+my:Steven a my:PERSON ;
+    owl:sameAs <http://www.wikidata.org/entity/Q17501985> .
+
+my:Stonehill_College a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q14715866> .
+
+my:SunEdison a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q946713> .
+
+my:Sunset a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q166564> .
+
+my:TMZ_Live.%5B14 a my:ORG .
+
+my:Tenev a my:PERSON ;
+    owl:sameAs <http://www.wikidata.org/entity/Q56291956> .
+
+my:Tesla a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q478214> .
+
+my:That_same_month a my:DATE .
+
+my:The_Wall_Street_Journal a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q164746> .
+
+my:The_following_June a my:DATE .
+
+my:The_following_month a my:DATE .
+
+my:Track_%26_Field_and_Cross_Country_Coaches_Association a my:ORG .
+
+my:Tuesday%2C_January_26 a my:DATE .
+
+my:Turing_Pharma a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q23058132> .
+
+my:Twitch a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4555537> .
+
+<http://myproject.org/ontology/U.S.> a my:GPE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q30> .
+
+my:UK a my:GPE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q8798> .
+
+my:US a my:GPE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q30> .
+
+my:Vladimir_Tenev a my:PERSON ;
+    owl:sameAs <http://www.wikidata.org/entity/Q56248473> .
+
+my:WSB a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q845098> .
+
+my:WallStreetBets a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q88239185> .
+
+my:X1 a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q13361286> .
+
+my:YouTube a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q866> .
+
+my:a_month a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q4003924> .
+
+my:annual a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1679951> .
+
+my:another_month a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q91557458> .
+
+my:between_2014_and_2020 a my:DATE .
+
+my:daily a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q86> .
+
+my:day a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q5242796> .
+
+my:early_2021 a my:DATE .
+
+my:early_2021.%5B2 a my:DATE .
+
+my:four-year a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q883433> .
+
+my:four_years a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q698281> .
+
+my:its_first_full_year a my:DATE .
+
+my:late_2014 a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q128531130> .
+
+my:late_January a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q137885731> .
+
+my:late_January_2021 a my:DATE .
+
+my:mid-2019%2C_investor_Michael_Burry%27s_Scion_Asset_Management a my:DATE .
+
+my:monthly a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q1536490> .
+
+my:that_year.%5B20%5D%5B21 a my:DATE .
+
+my:the_Apple_App_Store.%5B14 a my:ORG .
+
+my:the_European_Union.%5B1 a my:GPE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q72396472> .
+
+my:the_Federal_Deposit_Insurance_Corporation a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q59638521> .
+
+my:the_Financial_Industry_Regulatory_Authority a my:ORG .
+
+my:the_Meme_Man a my:PERSON .
+
+my:the_Securities_and_Exchange_Commission%27s a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q16305093> .
+
+my:the_U.S._House_Committee_on_Financial_Services a my:ORG .
+
+my:the_US_House_Financial_Services_Committee a my:ORG .
+
+my:the_United_Kingdom.%5B39%5D%5B40%5D%5B41 a my:GPE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q73730937> .
+
+my:the_Warsaw_Stock_Exchange a my:ORG .
+
+my:the_beginning_of_the_month a my:DATE .
+
+my:the_end_of_2016.%5B15 a my:DATE .
+
+my:the_end_of_2020 a my:DATE .
+
+my:the_end_of_2022 a my:DATE .
+
+my:the_first_days a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q113819023> .
+
+my:the_first_quarter_of_2020 a my:DATE .
+
+my:the_next_day a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q2783079> .
+
+my:the_prior_10_years.%5B7 a my:DATE .
+
+my:the_same_year.%5B17 a my:DATE .
+
+my:the_second_quarter_of_2020 a my:DATE .
+
+my:the_year a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q993664> .
+
+my:the_years a my:DATE ;
+    owl:sameAs <http://www.wikidata.org/entity/Q3230588> .
+
+<http://myproject.org/ontology/u/DeepFuckingValue_on> a my:PERSON .
+
+my:wallstreetbets a my:ORG ;
+    owl:sameAs <http://www.wikidata.org/entity/Q88239185> .
+
